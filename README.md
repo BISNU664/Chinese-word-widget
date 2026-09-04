@@ -163,9 +163,7 @@ tools/csv-to-vocab.mjs   converts a CSV/TSV wordlist into VOCAB rows
 docs/preview.html        rough visual mock-up of the layouts
 ```
 
-## Licence
 
-[MIT](LICENSE).
 
 No vocabulary data ships with this project, so nothing here is derived from any
 dictionary or textbook — the word list is yours to supply. If you publish a
