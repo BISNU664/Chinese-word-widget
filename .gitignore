@@ -1,0 +1,17 @@
+# Personal vocabulary lists — keep full textbook transcriptions local
+*.private.js
+vocab.private.js
+ChineseWordOfTheDay.local.js
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node, if you ever add tooling
+node_modules/
